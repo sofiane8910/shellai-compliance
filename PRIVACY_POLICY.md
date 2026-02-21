@@ -37,6 +37,6 @@ Since we do not collect any personal data, there is no personal data held by us 
 
 ## Contact
 
-**shellai.app@gmail.com**
+**sofiane.agent01@gmail.com**
 
 For the ShellAI app (iOS).

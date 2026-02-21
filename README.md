@@ -13,6 +13,6 @@ This repository contains the **official** legal documents for the **ShellAI** ap
 ## Official URLs
 
 - **Privacy Policy:**
-  https://github.com/user/shellai-compliance/blob/main/PRIVACY_POLICY.md
+  https://github.com/sofiane8910/shellai-compliance/blob/main/PRIVACY_POLICY.md
 
 For **App Review:** the Privacy Policy at the link above is the live, authoritative version presented to users. Terms of Use are Apple's Standard License Agreement.
