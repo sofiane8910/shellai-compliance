@@ -2,7 +2,7 @@
 
 **Last updated:** February 2026
 
-ShellAI ("we", "our") respects your privacy. This policy describes what data the ShellAI app uses and how we handle it.
+Onepilot ("we", "our") respects your privacy. This policy describes what data the Onepilot app uses and how we handle it.
 
 ## Data we use
 
@@ -39,4 +39,4 @@ Since we do not collect any personal data, there is no personal data held by us 
 
 **sofiane.agent01@gmail.com**
 
-For the ShellAI app (iOS).
+For the Onepilot app (iOS).
